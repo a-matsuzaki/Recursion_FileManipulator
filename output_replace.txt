@@ -1,0 +1,2 @@
+This is a sample text with the word 'newstring' appearing multiple times.
+We want to replace all occurrences of 'newstring' with a new string.

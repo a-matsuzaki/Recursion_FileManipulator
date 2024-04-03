@@ -1,0 +1,6 @@
+This is a sample text with the word 'needle' appearing multiple times.
+We want to replace all occurrences of 'needle' with a new string.
+This is a sample text with the word 'needle' appearing multiple times.
+We want to replace all occurrences of 'needle' with a new string.
+This is a sample text with the word 'needle' appearing multiple times.
+We want to replace all occurrences of 'needle' with a new string.
